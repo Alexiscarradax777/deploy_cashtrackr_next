@@ -6,7 +6,7 @@ import Link from "next/link";
 import BudgetMenu from "../components/budgets/BudgetMenu";
 import DeleteBudgetModal from "../components/budgets/DeleteBudgetModal";
 
-export const metada: Metadata = {
+export const metadata: Metadata = {
   title: "CashTrackr - Panel de Administracion",
   description: "CashTrackr - Panel de Administración",
 };
