@@ -48,7 +48,7 @@ export default function EditExpenseForm({
       </DialogTitle>
       <p className="text-xl font-bold">
         Edita los detalles de un {""}
-        <span className="text-amber-500">gasto</span>
+        <span className="text-amber-500">Gasto</span>
       </p>
 
       {state.errors.map((error) => (
